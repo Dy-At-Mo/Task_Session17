@@ -1,2 +1,2 @@
-# Task_Session17
+# Task_17_Database
 Connecting Postgres to a Node.js app
